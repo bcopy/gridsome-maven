@@ -4,7 +4,7 @@
 	
     <groupId>com.github.bcopy</groupId>
     <artifactId>gridsome-maven</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1-vue-bootstrap-SNAPSHOT</version>
     <packaging>jar</packaging>
 	
     <name>Gridsome maven example site</name>
