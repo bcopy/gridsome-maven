@@ -1,1 +1,1 @@
-export PATH=`pwd`/site/node:`pwd`/site/bin:$PATH
+export PATH=`pwd`/node:`pwd`/bin:$PATH

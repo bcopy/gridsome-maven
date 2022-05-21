@@ -15,3 +15,4 @@ node/
 /site/lib
 node_modules/
 
+bin/

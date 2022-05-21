@@ -46,7 +46,7 @@ You need to register a Maven POM file using the Frontend plugin, as described on
 Create a source folder, install NPM, extend your PATH then use ``npm init`` to create your ``package.json`` :
 
 ```bash
-mvn install
+mvn com.github.eirslett:frontend-maven-plugin:install-node-and-npm
 export PATH=`pwd`/node:`pwd`/bin:$PATH
 npm init
 ```
@@ -54,7 +54,7 @@ npm init
 You can then install the Gridsome CLI with :
 
 ```bash
-npm install --save @gridsome/cli
+npm install --global --save @gridsome/cli
 ```
 
 And create your new website :

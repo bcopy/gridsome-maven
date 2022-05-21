@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/bcopy/gridsome-maven/issues"
   },
-  "homepage": "https://github.com/bcopy/gridsome-maven#readme"
+  "homepage": "https://github.com/bcopy/gridsome-maven#readme",
+  "dependencies": {
+    "@gridsome/cli": "^0.3.4"
+  }
 }
