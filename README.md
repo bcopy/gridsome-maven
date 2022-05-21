@@ -65,4 +65,12 @@ And create your new website :
 gridsome create site
 ```
 
+## Add support for BootstrapVue
+
+```bash
+cd site
+npm i bootstrap-vue bootstrap
+```
+
+
 Happy coding 🎉🙌
