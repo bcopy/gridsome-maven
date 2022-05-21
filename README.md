@@ -1,10 +1,13 @@
 # Gridsome starter project with Maven
 
-Why even ? Maven and the excellent [frontend plugin](https://github.com/eirslett/frontend-maven-plugin) provide a virtual environment for NPM-based development.
+Why even ? Maven and the excellent [frontend plugin](https://github.com/eirslett/frontend-maven-plugin) provide a virtual environment for NPM-based development : 
+* :relieved: Experiment safely with Node and NPM without messing with your operating system.
+* :muscle: Let Maven handle the heavy-lifting related to Git flow releasing and versioning.
+* :rocket: Build a custom GraphQL back-end on top of Spring Data to migrate those pesky legacy relational datasources in no-time.
 
 ## How to boostrap your own Maven and NPM project
 
-You need to register a Maven POM file using the Frontend plugin, as described on the [plugin homepage](https://github.com/eirslett/frontend-maven-plugin). Your configuration should specify the Node and NPM installation, like so, for instance node v12 and npm v6 :
+You need to register a Maven POM file using the Frontend plugin, as described on the [plugin homepage](https://github.com/eirslett/frontend-maven-plugin). Your configuration should specify the Node and NPM installation, here for instance with Node v12.x and NPM v6.x :
 
 ```xml
 <plugin>
