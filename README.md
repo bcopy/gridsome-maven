@@ -59,5 +59,7 @@ npm install --global --save @gridsome/cli
 
 And create your new website :
 ```bash
-gridsome create starter-website
+gridsome create site
 ```
+
+Happy coding 🎉🙌

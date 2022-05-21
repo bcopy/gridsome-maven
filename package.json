@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "gridsome-maven",
   "version": "0.1.0",
   "description": "Gridsome website built with Maven and NPM",
   "main": "index.js",
